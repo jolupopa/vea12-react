@@ -16,9 +16,9 @@ export default function Dashboard() {
                 <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
                     <div className="overflow-hidden bg-white shadow-sm sm:rounded-lg">
                         <div className="p-6 text-gray-900">
-                            You're logged in! otro dato
-                            <div className='bg-indigo-500 text-white px-5 py-3'>
-                                jose luis
+                            You're logged in! 
+                            <div className='bg-red-500 text-white px-5 py-3'>
+                                jose luis portilla listo otro comit
                             </div>
                             
                         </div>
